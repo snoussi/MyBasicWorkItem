@@ -1,0 +1,20 @@
+[
+        ,[
+            "name" : "MyBasicWorkItem",
+            "displayName" : "My Basic WorkItem",
+            "category" : "My WorkItems",
+
+            "parameters" : [
+                "SampleParam" : new StringDataType()
+                ,"SampleParamTwo" : new StringDataType()
+
+            ],
+            "results" : [
+                "SampleResult" : new StringDataType()
+
+            ],
+            "icon" : "defaultservicenodeicon.png"
+
+        ]
+
+]
